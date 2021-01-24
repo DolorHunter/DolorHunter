@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [从Trump推特被封, 看言论自由边界](https://dolorhunter.com/trumps-twitter-ban-boundary-of-freedom-of-speech/)
 - [2020美大选中Trump的政变闹剧应当结束了](https://dolorhunter.com/2020-presidential-election-coup-farce-should-be-ended/)
 - [货币革命之稳定币与国际电汇](https://dolorhunter.com/currency-revolution-stable-coin-and-international-wire-transfer/)
 - [The Social Delimma-注定永远失败的注意力战争](https://dolorhunter.com/the-social-delimma-fighting-a-losing-attention-battle/)
 - [爬虫获取CSV数据并导入我的MySQL数据库](https://dolorhunter.com/crawl-csv-data-and-import-to-mysql/)
-- [用Spring boot框架做Hello World后端网页开发](https://dolorhunter.com/build-a-back-end-web-template-with-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
