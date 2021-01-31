@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [从Trump推特被封, 看言论自由边界](http://localhost:4000/trumps-twitter-ban-boundary-of-freedom-of-speech/)
-- [2020美大选中Trump的政变闹剧应当结束了](http://localhost:4000/2020-presidential-election-coup-farce-should-be-ended/)
-- [货币革命之稳定币与国际电汇](http://localhost:4000/currency-revolution-stable-coin-and-international-wire-transfer/)
-- [The Social Delimma-注定永远失败的注意力战争](http://localhost:4000/the-social-delimma-fighting-a-losing-attention-battle/)
-- [爬虫获取CSV数据并导入我的MySQL数据库](http://localhost:4000/crawl-csv-data-and-import-to-mysql/)
+- [V2ray域名解析策略和V2rayN代理模式解读](https://dolorhunter.com/v2ray-domain-strategy-and-v2rayn-http-proxy-explanation/)
+- [从Trump推特被封, 看言论自由边界](https://dolorhunter.com/trumps-twitter-ban-boundary-of-freedom-of-speech/)
+- [2020美大选中Trump的政变闹剧应当结束了](https://dolorhunter.com/2020-presidential-election-coup-farce-should-be-ended/)
+- [货币革命之稳定币与国际电汇](https://dolorhunter.com/currency-revolution-stable-coin-and-international-wire-transfer/)
+- [The Social Delimma-注定永远失败的注意力战争](https://dolorhunter.com/the-social-delimma-fighting-a-losing-attention-battle/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
