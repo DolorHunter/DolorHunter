@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [WallStreetBets散户屠机构 - 占领华尔街运动2.0](https://dolorhunter.com/wallstreetbets-retail-investors-slaughter-wall-street-occupy-wall-street-movement-2/)
 - [V2ray域名解析策略和V2rayN代理模式解读](https://dolorhunter.com/v2ray-domain-strategy-and-v2rayn-http-proxy-explanation/)
 - [从Trump推特被封, 看言论自由边界](https://dolorhunter.com/trumps-twitter-ban-boundary-of-freedom-of-speech/)
 - [2020美大选中Trump的政变闹剧应当结束了](https://dolorhunter.com/2020-presidential-election-coup-farce-should-be-ended/)
 - [货币革命之稳定币与国际电汇](https://dolorhunter.com/currency-revolution-stable-coin-and-international-wire-transfer/)
-- [The Social Delimma-注定永远失败的注意力战争](https://dolorhunter.com/the-social-delimma-fighting-a-losing-attention-battle/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
