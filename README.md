@@ -65,8 +65,8 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DolorHunter/test-/issues/1) in [DolorHunter/test-](https://github.com/DolorHunter/test-)
-2. 🗣 Commented on [#2685](https://github.com/v2ray/v2ray-core/issues/2685) in [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core)
+1. 🗣 Commented on [#616](https://github.com/v2fly/v2ray-core/issues/616) in [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
+2. ❗️ Opened issue [#1](https://github.com/DolorHunter/test-/issues/1) in [DolorHunter/test-](https://github.com/DolorHunter/test-)
 3. 🗣 Commented on [#826](https://github.com/v2ray/discussion/issues/826) in [v2ray/discussion](https://github.com/v2ray/discussion)
 4. ❌ Closed PR [#194](https://github.com/v2fly/v2ray-step-by-step/pull/194) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
 5. 🗣 Commented on [#194](https://github.com/v2fly/v2ray-step-by-step/issues/194) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
