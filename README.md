@@ -1,11 +1,10 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm DolorHunter</h2>
 
 <ul>
-  <li>✒ I'm a Student, Developer and Blogger</li>
-  <li>📚 I’m currently an undergraduate student</li>
-  <li>🌱 I’m currently learning web-development</li>
+  <li>✒ I'm a student, developer and blogger</li>
+  <li>🌱 I’m currently focus on web-development</li>
   <li>👯 I’m looking to collaborate with other developer</li>
-  <li>🥅 2020 Goals: Contribute more to Open Source projects</li>
+  <li>🥅 2021 Goals: Contribute more to open-source projects</li>
   <li>🎙️ Fun fact: I love opera, jazz and podcast</li>
 </ul>
 
