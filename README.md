@@ -51,11 +51,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [48種K棒型態戰法「下」](https://dolorhunter.com/48-candlestick-chart-part-3/)
 - [48種K棒型態戰法「中」](https://dolorhunter.com/48-candlestick-chart-part-2/)
 - [48種K棒型態戰法「上」](https://dolorhunter.com/48-candlestick-chart-part-1/)
 - [AEAD认证加密的接口和算法](https://dolorhunter.com/aead-an-interface-and-algorithms-for-authenticated-encryption/)
 - [货币革命之网格交易策略](https://dolorhunter.com/currency-revolution-grid-trading/)
-- [货币革命之比特币的未来](https://dolorhunter.com/currency-revolution-the-future-of-bitcoin/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
