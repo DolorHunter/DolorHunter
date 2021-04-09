@@ -64,11 +64,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/lib-hfut/lib-hfut/pull/5) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-2. 🗣 Commented on [#1415](https://github.com/2dust/v2rayN/issues/1415) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-3. 🗣 Commented on [#1410](https://github.com/2dust/v2rayN/issues/1410) in [2dust/v2rayN](https://github.com/2dust/v2rayN)
-4. 🗣 Commented on [#616](https://github.com/v2fly/v2ray-core/issues/616) in [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)
-5. 🗣 Commented on [#194](https://github.com/v2fly/v2ray-step-by-step/issues/194) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+1. 💪 Opened PR [#7](https://github.com/lib-hfut/lib-hfut/pull/7) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+2. ❌ Closed PR [#5](https://github.com/lib-hfut/lib-hfut/pull/5) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+3. ❌ Closed PR [#6](https://github.com/lib-hfut/lib-hfut/pull/6) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+4. 💪 Opened PR [#6](https://github.com/lib-hfut/lib-hfut/pull/6) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+5. 💪 Opened PR [#5](https://github.com/lib-hfut/lib-hfut/pull/5) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
