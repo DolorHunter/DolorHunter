@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [曲折的CI踩坑初记录 - mkdocs实现自动gh-deploy](https://dolorhunter.com/first-ci-log-gh-deploy-with-mkdocs/)
 - [Hook：不必写Class就能使用React的功能](https://dolorhunter.com/hook-using-state-and-other-react-features-without-class/)
 - [48種K棒型態戰法「下」](https://dolorhunter.com/48-candlestick-chart-part-3/)
 - [48種K棒型態戰法「中」](https://dolorhunter.com/48-candlestick-chart-part-2/)
 - [48種K棒型態戰法「上」](https://dolorhunter.com/48-candlestick-chart-part-1/)
-- [AEAD认证加密的接口和算法](https://dolorhunter.com/aead-an-interface-and-algorithms-for-authenticated-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
