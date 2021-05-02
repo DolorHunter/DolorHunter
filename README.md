@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cookies与Storage的小试与比较](https://dolorhunter.com/usage-and-compare-between-cookies-and-storage/)
 - [常见K棒形态 - 三角/头肩/WM头/通道](https://dolorhunter.com/common-candlestick-chart-triangle-hs-wm-channel/)
 - [曲折的CI踩坑初记录 - mkdocs实现自动gh-deploy](https://dolorhunter.com/first-ci-log-gh-deploy-with-mkdocs/)
 - [Hook：不必写Class就能使用React的功能](https://dolorhunter.com/hook-using-state-and-other-react-features-without-class/)
 - [48種K棒型態戰法「下」](https://dolorhunter.com/48-candlestick-chart-part-3/)
-- [48種K棒型態戰法「中」](https://dolorhunter.com/48-candlestick-chart-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
