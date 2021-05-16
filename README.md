@@ -76,8 +76,8 @@
 
 <details>
   <summary>🙈 Coding Status</summary>
-    <img align="left" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=dolorhunter&show_icons=true&theme=graywhite">
-    <img align="left" alt="Code Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolorhunter&layout=compact&theme=graywhite" />
+    <img align="left" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=dolorhunter&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <img align="left" alt="Code Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolorhunter&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </details>
 
 <img align="center" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=DolorHunter&color=dc143c&style=flat-square">
