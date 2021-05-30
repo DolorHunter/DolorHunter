@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [“内卷”过后，只能“躺平”？](https://dolorhunter.com/tangpingnism-after-involution/)
 - [上网时元数据是怎么泄漏的](https://dolorhunter.com/how-metadata-is-leaked-when-surfing-the-internet/)
 - [为什么不随波逐流做一个平庸的人呢？](https://dolorhunter.com/why-dont-you-play-by-the-book/)
 - [MUIDataTable实现CRUD增删改查并使用axios请求api](https://dolorhunter.com/mui-datatable-crud-with-axios-request-api/)
 - [Cookies与Storage的小试与比较](https://dolorhunter.com/usage-and-compare-between-cookies-and-storage/)
-- [常见K棒形态 - 三角/头肩/WM头/通道](https://dolorhunter.com/common-candlestick-chart-triangle-hs-wm-channel/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
