@@ -65,11 +65,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/lib-hfut/lib-hfut/issues/9) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-2. 💪 Opened PR [#243](https://github.com/v2fly/v2ray-step-by-step/pull/243) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
-3. 🎉 Merged PR [#8](https://github.com/lib-hfut/lib-hfut/pull/8) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-4. 💪 Opened PR [#8](https://github.com/lib-hfut/lib-hfut/pull/8) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-5. ❌ Closed PR [#7](https://github.com/lib-hfut/lib-hfut/pull/7) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+1. 🗣 Commented on [#1](https://github.com/DolorHunter/OS_PR-DR/issues/1) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
+2. 🗣 Commented on [#9](https://github.com/lib-hfut/lib-hfut/issues/9) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+3. 💪 Opened PR [#243](https://github.com/v2fly/v2ray-step-by-step/pull/243) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+4. 🎉 Merged PR [#8](https://github.com/lib-hfut/lib-hfut/pull/8) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+5. 💪 Opened PR [#8](https://github.com/lib-hfut/lib-hfut/pull/8) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
