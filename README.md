@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [出社会的恐惧](https://dolorhunter.com/fear-of-entering-society/)
 - [可为与有为](https://dolorhunter.com/doable-and-make-a-difference/)
 - [最后的自白](https://dolorhunter.com/bs-cs-graduation-summary/)
 - [“内卷”过后，只能“躺平”？](https://dolorhunter.com/tangpingnism-after-involution/)
 - [上网时元数据是怎么泄漏的](https://dolorhunter.com/how-metadata-is-leaked-when-surfing-the-internet/)
-- [为什么不随波逐流做一个平庸的人呢？](https://dolorhunter.com/why-dont-you-play-by-the-book/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
