@@ -65,11 +65,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/monyhar/monyhar-lite/pull/53) in [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite)
-2. 🗣 Commented on [#30](https://github.com/monyhar/monyhar-lite/issues/30) in [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite)
-3. ❗️ Closed issue [#1](https://github.com/DolorHunter/OS_PR-DR/issues/1) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
-4. 🗣 Commented on [#1](https://github.com/DolorHunter/OS_PR-DR/issues/1) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
-5. 🗣 Commented on [#9](https://github.com/lib-hfut/lib-hfut/issues/9) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+1. ❗️ Opened issue [#202](https://github.com/HMUniversity/About/issues/202) in [HMUniversity/About](https://github.com/HMUniversity/About)
+2. 💪 Opened PR [#53](https://github.com/monyhar/monyhar-lite/pull/53) in [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite)
+3. 🗣 Commented on [#30](https://github.com/monyhar/monyhar-lite/issues/30) in [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite)
+4. ❗️ Closed issue [#1](https://github.com/DolorHunter/OS_PR-DR/issues/1) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
+5. 🗣 Commented on [#1](https://github.com/DolorHunter/OS_PR-DR/issues/1) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
 <!--END_SECTION:activity-->
 
 </details>
