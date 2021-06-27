@@ -52,7 +52,7 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [为Tor浏览器用Nginx配置Onion服务器](https://dolorhunter.com/configuring-onion-server-for-tor-with-nginx/)
+- [Nginx为Tor浏览器配置Onion服务器](https://dolorhunter.com/configuring-onion-server-for-tor-with-nginx/)
 - [出社会的恐惧](https://dolorhunter.com/fear-of-entering-society/)
 - [可为与有为](https://dolorhunter.com/doable-and-make-a-difference/)
 - [最后的自白](https://dolorhunter.com/bs-cs-graduation-summary/)
