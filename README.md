@@ -65,11 +65,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
-2. 💪 Opened PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
-3. 🎉 Merged PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
-4. 💪 Opened PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
-5. ❗️ Opened issue [#202](https://github.com/HMUniversity/About/issues/202) in [HMUniversity/About](https://github.com/HMUniversity/About)
+1. 🎉 Merged PR [#2](https://github.com/DolorHunter/tuixue.cmkschp/pull/2) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
+2. 💪 Opened PR [#2](https://github.com/DolorHunter/tuixue.cmkschp/pull/2) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
+3. 💪 Opened PR [#1](https://github.com/tangyisheng2/tuixue.cmkschp/pull/1) in [tangyisheng2/tuixue.cmkschp](https://github.com/tangyisheng2/tuixue.cmkschp)
+4. 🎉 Merged PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
+5. 💪 Opened PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
 <!--END_SECTION:activity-->
 
 </details>
