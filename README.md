@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [羊城之恋](https://dolorhunter.com/love-in-canton/)
 - [Nginx为Tor浏览器配置Onion服务器](https://dolorhunter.com/configuring-onion-server-for-tor-with-nginx/)
 - [出社会的恐惧](https://dolorhunter.com/fear-of-entering-society/)
 - [可为与有为](https://dolorhunter.com/doable-and-make-a-difference/)
 - [最后的自白](https://dolorhunter.com/bs-cs-graduation-summary/)
-- [“内卷”过后，只能“躺平”？](https://dolorhunter.com/tangpingnism-after-involution/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
