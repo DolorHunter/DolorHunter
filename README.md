@@ -52,7 +52,7 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [命令行参数的传参与使用](https://dolorhunter.com/passing-and-using-of-command-line-parameters/)
+- [命令行参数的传参与使用](https://dolorhunter.com/passing-and-using-of-command-line-arguments/)
 - [羊城之恋](https://dolorhunter.com/love-in-canton/)
 - [Nginx为Tor浏览器配置Onion服务器](https://dolorhunter.com/configuring-onion-server-for-tor-with-nginx/)
 - [出社会的恐惧](https://dolorhunter.com/fear-of-entering-society/)
