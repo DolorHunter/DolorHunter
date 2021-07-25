@@ -52,11 +52,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [给你的博客加入每日格言](https://dolorhunter.com/add-a-daily-motto-to-your-blog/)
 - [从CC许可证一窥开源许可证世界](https://dolorhunter.com/a-glimpse-into-the-open-source-license-world-from-the-cc-license/)
 - [命令行参数的传参与使用](https://dolorhunter.com/passing-and-using-of-command-line-arguments/)
 - [羊城之恋](https://dolorhunter.com/love-in-canton/)
 - [Nginx为Tor浏览器配置Onion服务器](https://dolorhunter.com/configuring-onion-server-for-tor-with-nginx/)
-- [出社会的恐惧](https://dolorhunter.com/fear-of-entering-society/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
