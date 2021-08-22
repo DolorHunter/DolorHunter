@@ -57,11 +57,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [给你的404页面加入dino/T-Rex Runner](https://dolorhunter.com/add-dino-t-rex-runner-to-your-404-page/)
 - [美国代步车真的更便宜吗](https://dolorhunter.com/are-compact-cars-cheaper-in-us/)
 - [GPG认证你的commit、邮件和其他](https://dolorhunter.com/gpg-certifies-your-commit-email-and-others/)
 - [MSI和EXE拓展的安装包的差异](https://dolorhunter.com/difference-between-msi-and-exe-expansion-installer/)
 - [给你的博客加入每日格言](https://dolorhunter.com/add-a-daily-motto-to-your-blog/)
-- [从CC许可证一窥开源许可证世界](https://dolorhunter.com/a-glimpse-into-the-open-source-license-world-from-the-cc-license/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
