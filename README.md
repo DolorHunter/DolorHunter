@@ -57,11 +57,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [美国攻略 ep3 储蓄卡与实习驾照](https://dolorhunter.com/us-living-101-ep3-debit-card-and-learner-permit/)
 - [美国攻略 ep2 生活骇客与屠夫](https://dolorhunter.com/us-living-101-ep2-life-hacker-and-butcher/)
 - [美国攻略 ep1 初来乍到](https://dolorhunter.com/us-living-101-ep1-fresh-off-the-boat/)
 - [给你的404页面加入dino/T-Rex Runner](https://dolorhunter.com/add-dino-t-rex-runner-to-your-404-page/)
 - [美国代步车真的更便宜吗](https://dolorhunter.com/are-compact-cars-cheaper-in-us/)
-- [GPG认证你的commit、邮件和其他](https://dolorhunter.com/gpg-certifies-your-commit-email-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
