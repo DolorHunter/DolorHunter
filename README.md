@@ -57,7 +57,7 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [美国攻略 ep6 SSN预约、Voicemail和中餐](https://dolorhunter.com/us-living-101-ep6/)
+- [美国攻略 ep6 SSN预约、Voicemail和中餐](https://dolorhunter.com/us-living-101-ep6-ssn-appointment-voicemail-and-chinese-foods/)
 - [算法笔记101 - 动态规划 Dynamic Programming](https://dolorhunter.com/algo-notebook-101-dynamic-programing/)
 - [算法笔记101 - 分治算法 Divide and Conquer](https://dolorhunter.com/algo-notebook-101-divide-and-conquer/)
 - [美国攻略 ep5 日常用语套路总结](https://dolorhunter.com/us-living-101-ep5-summary-of-daily-phrases/)
