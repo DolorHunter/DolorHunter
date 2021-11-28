@@ -70,11 +70,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/lib-hfut/lib-hfut/pull/13) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-2. ❗️ Closed issue [#12](https://github.com/lib-hfut/lib-hfut/issues/12) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-3. 🗣 Commented on [#12](https://github.com/lib-hfut/lib-hfut/issues/12) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-4. 🎉 Merged PR [#11](https://github.com/lib-hfut/lib-hfut/pull/11) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-5. 💪 Opened PR [#1](https://github.com/DolorHunter/tuixue.cmkschp/pull/1) in [DolorHunter/tuixue.cmkschp](https://github.com/DolorHunter/tuixue.cmkschp)
+1. ❗️ Closed issue [#2](https://github.com/DolorHunter/OS_PR-DR/issues/2) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
+2. 🗣 Commented on [#2](https://github.com/DolorHunter/OS_PR-DR/issues/2) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
+3. 🎉 Merged PR [#13](https://github.com/lib-hfut/lib-hfut/pull/13) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+4. ❗️ Closed issue [#12](https://github.com/lib-hfut/lib-hfut/issues/12) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+5. 🗣 Commented on [#12](https://github.com/lib-hfut/lib-hfut/issues/12) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
