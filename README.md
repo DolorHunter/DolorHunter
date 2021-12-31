@@ -57,11 +57,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [美国攻略 ep9 路考2、SSN和市中心](https://dolorhunter.com/us-living-101-ep9-ssn-roadtest/)
 - [美国攻略 ep8 落雪和尼加拉瓜瀑布](https://dolorhunter.com/us-living-101-ep8-heavy-snow-and-nicaragua-falls/)
 - [美国攻略 ep7 路考、车费和州内公园](https://dolorhunter.com/us-living-101-ep7-roadtest-cost-of-car-and-state-parks/)
 - [美国攻略 ep6 SSN预约、Voicemail和中餐](https://dolorhunter.com/us-living-101-ep6-ssn-appointment-voicemail-and-chinese-foods/)
 - [算法笔记101 - 动态规划 Dynamic Programming](https://dolorhunter.com/algo-notebook-101-dynamic-programing/)
-- [算法笔记101 - 分治算法 Divide and Conquer](https://dolorhunter.com/algo-notebook-101-divide-and-conquer/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
