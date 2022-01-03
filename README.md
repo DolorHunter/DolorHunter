@@ -1,21 +1,14 @@
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container" align="right">
+<div class="container">
   <embed src="https://dolorhunter.com/chrome%20easter%20egg%20t-rex%20runner.html"  width="650" height="280"/> 
 </div>
 
+---
+
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm DolorHunter</h2>
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="150" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
+</p>
 
 <ul>
   <li>I'm a grad student, developer and blogger.</li>
@@ -25,6 +18,8 @@
   <li>Keep blogging and writing the documents.</li>
 </ul>
 
+
+---
 
 ### My Footprint
 
@@ -60,6 +55,7 @@
     <img align="left" alt="Code Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolorhunter&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </details>
 
+---
 
 ### Connect with me
 
@@ -69,8 +65,7 @@
 <a href="https://www.instagram.com/wangzi_xiang/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <a href="https://twitter.com/tzu__hsiang"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 
-<br />
-
+<br>
 
 <div align="center">
   <img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=DolorHunter&color=dc143c&style=flat-square">
