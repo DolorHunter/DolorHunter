@@ -4,11 +4,15 @@
 
 ---
 
+<a href="https://twitter.com/tzu__hsiang"><img align="right" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://www.instagram.com/wangzi_xiang/"><img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="https://www.linkedin.com/in/zixiangwang/"><img align="right" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="mailto:dolorhunter@gmail.com"><img align="right" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg"/></a>
+<a href="https://dolorhunter.com"><img align="right" alt="dolorhunter.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm DolorHunter</h2>
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="150" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
-</p>
+<a href="https://dolorhunter.com"><img width="125px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
 
 <ul>
   <li>I'm a grad student, developer and blogger.</li>
@@ -18,6 +22,9 @@
   <li>Keep blogging and writing the documents.</li>
 </ul>
 
+
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=DolorHunter&color=dc143c&style=flat-square">
+<br />
 
 ---
 
@@ -55,18 +62,3 @@
     <img align="left" alt="Code Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolorhunter&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </details>
 
----
-
-### Connect with me
-
-<a href="https://dolorhunter.com"><img align="left" alt="dolorhunter.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="mailto:dolorhunter@gmail.com"><img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg"/></a>
-<a href="https://www.linkedin.com/in/zixiangwang/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://www.instagram.com/wangzi_xiang/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
-<a href="https://twitter.com/tzu__hsiang"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-
-<br>
-
-<div align="center">
-  <img alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=DolorHunter&color=dc143c&style=flat-square">
-</div>
