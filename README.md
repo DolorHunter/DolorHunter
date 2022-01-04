@@ -12,7 +12,7 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm DolorHunter</h2>
 
-<a href="https://dolorhunter.com"><img width="150px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
+<a href="https://dolorhunter.com"><img width="125px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
 
 <ul>
   <li>I'm a grad student, developer and blogger.</li>
