@@ -32,11 +32,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [夺冠日记与人情冷暖](https://dolorhunter.com/covid-diary-and-human-affection/)
 - [美国攻略 ep10 纽约城](https://dolorhunter.com/us-living-101-ep10-nyc/)
 - [美国攻略 ep9 路考2、SSN和市中心](https://dolorhunter.com/us-living-101-ep9-ssn-roadtest/)
 - [美国攻略 ep8 落雪和尼加拉瓜瀑布](https://dolorhunter.com/us-living-101-ep8-heavy-snow-and-nicaragua-falls/)
 - [美国攻略 ep7 路考、车费和州内公园](https://dolorhunter.com/us-living-101-ep7-roadtest-cost-of-car-and-state-parks/)
-- [美国攻略 ep6 SSN预约、Voicemail和中餐](https://dolorhunter.com/us-living-101-ep6-ssn-appointment-voicemail-and-chinese-foods/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
