@@ -1,9 +1,3 @@
-<div class="container">
-  <embed src="https://dolorhunter.com/chrome%20easter%20egg%20t-rex%20runner.html"  width="650" height="280"/> 
-</div>
-
----
-
 <a href="https://twitter.com/tzu__hsiang"><img align="right" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://www.instagram.com/wangzi_xiang/"><img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/zixiangwang/"><img align="right" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
