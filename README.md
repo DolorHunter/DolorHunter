@@ -26,11 +26,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [大翻譯運動 - 帶你看見真正的中國](https://dolorhunter.com/the-great-translation-movement-take-you-to-see-the-real-china/)
 - [這個世界會好嗎？俄羅斯入侵烏克蘭戰爭](https://dolorhunter.com/will-the-world-be-better-russian-ukraine-war/)
 - [夺冠日记与人情冷暖](https://dolorhunter.com/covid-diary-and-human-affection/)
 - [美国攻略 ep10 纽约城](https://dolorhunter.com/us-living-101-ep10-nyc/)
 - [美国攻略 ep9 路考2、SSN和市中心](https://dolorhunter.com/us-living-101-ep9-ssn-roadtest/)
-- [美国攻略 ep8 落雪和尼加拉瓜瀑布](https://dolorhunter.com/us-living-101-ep8-heavy-snow-and-nicaragua-falls/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
