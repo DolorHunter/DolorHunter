@@ -39,11 +39,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/lib-hfut/lib-hfut/issues/1) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-2. ❌ Closed PR [#10](https://github.com/lib-hfut/lib-hfut/pull/10) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-3. 🎉 Merged PR [#18](https://github.com/lib-hfut/lib-hfut/pull/18) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-4. 🎉 Merged PR [#17](https://github.com/lib-hfut/lib-hfut/pull/17) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-5. 🗣 Commented on [#2](https://github.com/DolorHunter/OS_PR-DR/issues/2) in [DolorHunter/OS_PR-DR](https://github.com/DolorHunter/OS_PR-DR)
+1. 🎉 Merged PR [#19](https://github.com/lib-hfut/lib-hfut/pull/19) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+2. 💪 Opened PR [#19](https://github.com/lib-hfut/lib-hfut/pull/19) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+3. 💪 Opened PR [#1](https://github.com/DolorHunter/lib-hfut/pull/1) in [DolorHunter/lib-hfut](https://github.com/DolorHunter/lib-hfut)
+4. ❗️ Closed issue [#1](https://github.com/lib-hfut/lib-hfut/issues/1) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+5. ❌ Closed PR [#10](https://github.com/lib-hfut/lib-hfut/pull/10) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
