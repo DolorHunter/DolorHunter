@@ -4,7 +4,7 @@
 <a href="mailto:dolorhunter@gmail.com"><img align="right" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg"/></a>
 <a href="https://dolorhunter.com"><img align="right" alt="dolorhunter.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm DolorHunter</h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm DolorHunter</h2>
 
 <a href="https://dolorhunter.com"><img width="125px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
 
