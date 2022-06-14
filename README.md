@@ -39,11 +39,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/v2fly/v2ray-step-by-step/issues/267) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
-2. 💪 Opened PR [#267](https://github.com/v2fly/v2ray-step-by-step/pull/267) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
-3. 🗣 Commented on [#262](https://github.com/v2fly/v2ray-step-by-step/issues/262) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
-4. 🎉 Merged PR [#19](https://github.com/lib-hfut/lib-hfut/pull/19) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-5. 💪 Opened PR [#19](https://github.com/lib-hfut/lib-hfut/pull/19) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+1. ❗️ Opened issue [#1](https://github.com/zbs4017/Postgraduate-Notes/issues/1) in [zbs4017/Postgraduate-Notes](https://github.com/zbs4017/Postgraduate-Notes)
+2. 🗣 Commented on [#267](https://github.com/v2fly/v2ray-step-by-step/issues/267) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+3. 💪 Opened PR [#267](https://github.com/v2fly/v2ray-step-by-step/pull/267) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+4. 🗣 Commented on [#262](https://github.com/v2fly/v2ray-step-by-step/issues/262) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+5. 🎉 Merged PR [#19](https://github.com/lib-hfut/lib-hfut/pull/19) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
