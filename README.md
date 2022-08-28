@@ -26,11 +26,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [美國攻略 ep12 重遊紐約城](https://dolorhunter.com/us-living-101-ep12-nyc-2/)
 - [美國攻略 ep11 芝加哥](https://dolorhunter.com/us-living-101-ep11-chicago/)
 - [遊移的月亮 - 第 100 篇博客總結](https://dolorhunter.com/wandering-moon-100-th-blog-summary/)
 - [大時代的用腳投票 - 你拼命潤](https://dolorhunter.com/voting-with-the-feet-in-the-big-era-npm-run/)
 - [大翻譯運動 - 讓世界看見真正的中國](https://dolorhunter.com/the-great-translation-movement-let-the-world-see-the-real-china/)
-- [這個世界會好嗎？俄羅斯入侵烏克蘭戰爭](https://dolorhunter.com/will-the-world-be-better-russian-ukraine-war/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
