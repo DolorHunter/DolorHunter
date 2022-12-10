@@ -39,11 +39,11 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#578](https://github.com/coderQuad/New-Grad-Positions-2023/pull/578) in [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023)
-2. 🎉 Merged PR [#26](https://github.com/lib-hfut/lib-hfut/pull/26) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-3. 🎉 Merged PR [#25](https://github.com/lib-hfut/lib-hfut/pull/25) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-4. 🎉 Merged PR [#24](https://github.com/lib-hfut/lib-hfut/pull/24) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-5. 🗣 Commented on [#243](https://github.com/v2fly/fhs-install-v2ray/issues/243) in [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)
+1. ❌ Closed PR [#578](https://github.com/coderQuad/New-Grad-Positions-2023/pull/578) in [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023)
+2. 💪 Opened PR [#578](https://github.com/coderQuad/New-Grad-Positions-2023/pull/578) in [coderQuad/New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023)
+3. 🎉 Merged PR [#26](https://github.com/lib-hfut/lib-hfut/pull/26) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+4. 🎉 Merged PR [#25](https://github.com/lib-hfut/lib-hfut/pull/25) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+5. 🎉 Merged PR [#24](https://github.com/lib-hfut/lib-hfut/pull/24) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
 
 </details>
