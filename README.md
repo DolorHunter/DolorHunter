@@ -9,9 +9,8 @@
 <a href="https://dolorhunter.com"><img width="125px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
 
 <ul>
-  <li>I'm a grad student, developer and blogger.</li>
-  <li>Skilled at full-stack web development and CI/CD.</li>
-  <li>Ready to learn Mobile development, AWS and Go in 2022.</li>
+  <li>I'm a Master's student, developer and blogger.</li>
+  <li>Skilled at back-end, full-stack development and CI/CD.</li>
   <li>Continue to contribute to the open source community.</li>
   <li>Keep blogging and writing the documents.</li>
 </ul>
