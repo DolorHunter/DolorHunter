@@ -38,9 +38,9 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/lib-hfut/lib-hfut/pull/29) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-2. 🎉 Merged PR [#28](https://github.com/lib-hfut/lib-hfut/pull/28) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
-3. 🎉 Merged PR [#26](https://github.com/lib-hfut/lib-hfut/pull/26) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+1. 💪 Opened PR [#298](https://github.com/v2fly/v2ray-step-by-step/pull/298) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+2. 🗣 Commented on [#297](https://github.com/v2fly/v2ray-step-by-step/pull/297#issuecomment-2384757793) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
+3. 💪 Opened PR [#1](https://github.com/DolorHunter/v2ray-step-by-step/pull/1) in [DolorHunter/v2ray-step-by-step](https://github.com/DolorHunter/v2ray-step-by-step)
 4. 🎉 Merged PR [#25](https://github.com/lib-hfut/lib-hfut/pull/25) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 5. 🎉 Merged PR [#24](https://github.com/lib-hfut/lib-hfut/pull/24) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 <!--END_SECTION:activity-->
