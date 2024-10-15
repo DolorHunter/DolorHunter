@@ -25,11 +25,11 @@
   <summary>🙉 Latest Post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [終須有，莫強求 - 23NG 找工兩年後加入谷歌](https://dolorhunter.com/zhong-xu-you-mo-qiang-qiu/)
 - [斷網急救手冊v2 - 域名污染急救](https://dolorhunter.com/after-blocked-by-gfw-v2-cache-poisoning/)
 - [美國攻略 ep12 重遊紐約城](https://dolorhunter.com/us-living-101-ep12-nyc-2/)
 - [美國攻略 ep11 芝加哥](https://dolorhunter.com/us-living-101-ep11-chicago/)
 - [遊移的月亮 - 第 100 篇博客總結](https://dolorhunter.com/wandering-moon-100-th-blog-summary/)
-- [大時代的用腳投票 - 你拼命潤](https://dolorhunter.com/voting-with-the-feet-in-the-big-era-npm-run/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
