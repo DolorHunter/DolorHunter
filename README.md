@@ -38,7 +38,7 @@
   <summary>🙊 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/lib-hfut/lib-hfut/pull/31) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
+1. 🎉 Merged PR [#32](https://github.com/lib-hfut/lib-hfut/pull/32) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
 2. 🗣 Commented on [#297](https://github.com/v2fly/v2ray-step-by-step/pull/297#issuecomment-2384757793) in [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step)
 3. 💪 Opened PR [#1](https://github.com/DolorHunter/v2ray-step-by-step/pull/1) in [DolorHunter/v2ray-step-by-step](https://github.com/DolorHunter/v2ray-step-by-step)
 4. 🎉 Merged PR [#25](https://github.com/lib-hfut/lib-hfut/pull/25) in [lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)
