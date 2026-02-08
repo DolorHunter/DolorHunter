@@ -1,4 +1,3 @@
-<a href="https://twitter.com/tzu__hsiang"><img align="right" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://www.instagram.com/wangzi_xiang/"><img align="right" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/zixiangwang/"><img align="right" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <a href="mailto:dolorhunter@gmail.com"><img align="right" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg"/></a>
@@ -9,10 +8,10 @@
 <a href="https://dolorhunter.com"><img width="125px" align='right' src="https://res.cloudinary.com/dfb5w2ccj/image/upload/v1641176695/favicon_a41cwz.png"></a>
 
 <ul>
-  <li>I'm a Master's student, developer and blogger.</li>
-  <li>Skilled at back-end, full-stack development and CI/CD.</li>
+  <li>I'm a developer and blogger.</li>
+  <li>Skilled in copy and paste.</li>
   <li>Continue to contribute to the open source community.</li>
-  <li>Keep blogging and writing the documents.</li>
+  <li>Keep blogging and documenting.</li>
 </ul>
 
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=DolorHunter&color=dc143c&style=flat-square">
